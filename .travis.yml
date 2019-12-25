@@ -1,4 +1,8 @@
+compiler: 
+- clang
+dist: trusty
 language: ruby
 rvm:
  - 2.2
  - jruby
+git clone https://github.com/llvm-project
